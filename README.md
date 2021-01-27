@@ -7,7 +7,7 @@ thousands of dollars to learn something like this.
 
 
 # 🎌 Where are you from?
-I was born and rasied in Canada, during the last decade of my life I've been living in Chile.
+I was born and raised in Canada, during the last decade of my life I've been living in Chile.
 
 
 # 🌐 What languages can you speak?
@@ -23,7 +23,7 @@ I'm currently struggling to find a job, but I would like to become a police offi
 as a programmer or IT specalist? I have a few reasons for that.
 
   - As much as I enjoy programming, It tends to be stressful, I love doing this as a hobby because it allows me to
-    play around a sandbox and create whaetever comes to mind. But as a job? I find it stressful to understand what
+    play around a sandbox and create whatever comes to mind. But as a job? I find it stressful to understand what
     the client wants and the deadlines and or future issues. So yeah, I rather not.
   - Most jobs in the programming field or IT field requires certification or a diploma, i have neither. But that's
    fine, because I get the satisfcation of knowing that someone with a diploma or certificate often has no idea what
